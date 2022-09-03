@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tugasintent</string>
+    <string name="kalkulator_bmi">Kalkulator BMI</string>
+    <string name="umur">Umur :</string>
+    <string name="masukkan_umur">Masukkan Umur</string>
+    <string name="tahun">tahun</string>
+    <string name="tinggi_badan">Tinggi Badan :</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+    <string name="cm">cm</string>
+    <string name="berat_badan">Berat Badan :</string>
+    <string name="masukkan_berat">Masukkan Berat</string>
+    <string name="kg">kg</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="intent">Intent</string>
+    <string name="bundle">Bundle</string>
+    <string name="serializeable">Serializeable</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="hasil">HASIL :</string>
+    <string name="passin_data_intent">Passin Data Intent</string>
+    <string name="passin_data_serializeable">Passin Data Serializeable</string>
+</resources>
